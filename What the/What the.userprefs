@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\SpeechPrepareCheck.cs">
+    <Files>
+      <File FileName="Assets\scripts\SpeechMode.cs" Line="5" Column="24" />
+      <File FileName="Assets\Dialogue\Npc1Conversationer.cs" Line="23" Column="3" />
+      <File FileName="Assets\scripts\SpeechPrepareCheck.cs" Line="30" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
